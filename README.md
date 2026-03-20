@@ -25,7 +25,8 @@
 ● Test Commands:
   - `.venv\Scripts\python -m pytest test_app.py -v`
 
-AI Disclosure:
+## AI Disclosure:
+
 ● Did you use an AI assistant (Copilot, ChatGPT, etc.)? (Yes/No)
   - Yes
 ● How did you verify the suggestions?
@@ -33,7 +34,8 @@ AI Disclosure:
 ● Give one example of a suggestion you rejected or changed:
   - I considered storing raw user message history, but I changed the design to a privacy-first approach: storing only token fingerprints / aggregated behavior signals (no raw messages or personal data).
 
-Tradeoffs & Prioritization:
+## Tradeoffs & Prioritization:
+
 ● What did you cut to stay within the 4–6 hour limit?
   - No database persistence (alerts/habits are in-memory).
   - Server-rendered HTML + vanilla JS instead of a separate frontend build.
