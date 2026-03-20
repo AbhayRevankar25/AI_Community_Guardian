@@ -56,7 +56,7 @@
 
 
 
----
+-----
 
 
 
@@ -162,7 +162,6 @@ project_abhay/
 ├── data.json        # Synthetic dataset
 ├── test_app.py      # Tests
 ├── DESIGN.md        # Design, tech stack, future enhancements
-├── features_implement.pdf # Features + detailed usage/examples
 ├── .env.example     # API key template (do not commit .env)
 └── requirements.txt
 ```
@@ -187,7 +186,6 @@ See **DESIGN.md** for full design documentation.
 
 ## Security
 
-- **Do not commit** `.env` or API keys (see `.gitignore`)
 - Use `.env.example` as a template only
 
 ---
