@@ -29,8 +29,10 @@
 
 ● Did you use an AI assistant (Copilot, ChatGPT, etc.)? (Yes/No)
   - Yes
+    
 ● How did you verify the suggestions?
   - I verified behavior by running the app through the UI routes and by running automated tests using `pytest`.
+    
 ● Give one example of a suggestion you rejected or changed:
   - I considered storing raw user message history, but I changed the design to a privacy-first approach: storing only token fingerprints / aggregated behavior signals (no raw messages or personal data).
 
