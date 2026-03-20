@@ -1,0 +1,17 @@
+[
+  {
+    "text": "Your bank account will be blocked. Click here now!",
+    "location": "Bangalore",
+    "type": "unknown"
+  },
+  {
+    "text": "URGENT: You have won a prize. Claim it now via gift card.",
+    "location": "Mumbai",
+    "type": "unknown"
+  },
+  {
+    "text": "Invoice attached. Download the file and enable macros to view.",
+    "location": "Delhi",
+    "type": "unknown"
+  }
+]
