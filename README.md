@@ -1,9 +1,9 @@
 # AI Community Guardian
 
-● Candidate Name: Abhay Raghvendra Revankar.
-● Scenario Chosen: Community Safety & Digital Wellness.
-● Estimated Time Spent: 6 hours.
-● You tube video link : https://youtu.be/5HY47fKFXHo
+- Candidate Name: Abhay Raghvendra Revankar.
+- Scenario Chosen: Community Safety & Digital Wellness.
+- Estimated Time Spent: 6 hours.
+- You tube video link : https://youtu.be/5HY47fKFXHo
 
 Quick Start:
 ● Prerequisites:
