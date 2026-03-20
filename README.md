@@ -55,7 +55,12 @@
 
 
 
-**Zero Trust Cyber Safety Assistant** — A Community Guardian platform that aggregates digital security data, uses AI to filter noise, and provides calm, actionable safety digests.
+
+
+
+
+
+# **Zero Trust Cyber Safety Assistant** — A Community Guardian platform that aggregates digital security data, uses AI to filter noise, and provides calm, actionable safety digests.
 
 ---
 
